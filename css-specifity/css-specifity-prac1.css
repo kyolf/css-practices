@@ -1,0 +1,20 @@
+/* CSS Specificity
+    Superiority: 
+    1. Inline / important
+    2. Id
+    3. Class
+    4. Element Tag
+
+*/
+
+.blue {
+  background-color: blue;
+}
+
+#green {
+  background-color: green;
+}
+
+p {
+  background-color: red;
+}
