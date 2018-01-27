@@ -1,12 +1,12 @@
 /* CSS Specificity
     Superiority: 
-    1. Inline / important
+    1. Inline / !important
     2. Id
     3. Class
     4. Element Tag
 
 */
-
+/* In this case, green will appear since id is more important than class and tag */
 .blue {
   background-color: blue;
 }
