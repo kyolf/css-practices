@@ -1,5 +1,14 @@
 /* 
   If same superiority, the # of elements of that superiority overrides the lesser
   For Instance, div a {} will override w.e. is in div {}
+
+  Below Ex will show cyan
 */
 
+p {
+  background-color: red;
+}
+
+aside p {
+  background-color: cyan;
+}
